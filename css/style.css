@@ -9,9 +9,9 @@ table {
   background-color: lightgrey;
 }
 body {
-  background: radial-gradient();
+  background: linear-gradient(to right, red, orange);
   font-family: Arial, Helvetica, sans-serif;
-  background-color: grey
+  background-color: grey;
   font-size: medium;
   margin: 0;
   padding: 0;
