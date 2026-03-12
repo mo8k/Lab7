@@ -30,6 +30,7 @@ image {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  font-weight: bold;
   width: 50%;
 }
 
@@ -44,4 +45,22 @@ img {
   font-weight: bold;
   text-align: left;
   padding-left: 10px;
+}
+
+.sub {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.footer {
+  text-align: center;
+  font-size: medium;
+  margin-top: 40px;
+}
+
+.name {
+  text-align: center;
+  font-size: medium;
+  margin-top: 50px;
 }
