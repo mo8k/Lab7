@@ -62,5 +62,6 @@ img {
 .name {
   text-align: center;
   font-size: medium;
+  font-weight: bold;
   margin-top: 20px;
 }
